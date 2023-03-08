@@ -1,0 +1,19 @@
+node_modules
+db
+build
+temp
+.env
+*.env
+aws.yml
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
